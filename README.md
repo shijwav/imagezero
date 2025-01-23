@@ -1,4 +1,11 @@
 # imagezero
-for the initial development of the alpha build and eventually the beta build.
+Before running download flask for python below is a step to make sure pygame is downloaded
+https://www.youtube.com/watch?v=AdUZArA-kZw&t=10s
 
-please do not share this repository with anyone outside of image zero 
+after that go to vs code terminal and write each one of these one by one in order:
+
+pip install flask
+pip install flask-login
+pip install flask-sqlalchemy
+
+if you need help lmk
