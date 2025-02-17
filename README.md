@@ -9,3 +9,7 @@ pip install flask-login
 pip install flask-sqlalchemy
 
 if you need help lmk
+
+Alpha V 0.0.0.2
+
+Added the sign up page still missing login and logout and the home menu and also a system that saves emails and passwords.
